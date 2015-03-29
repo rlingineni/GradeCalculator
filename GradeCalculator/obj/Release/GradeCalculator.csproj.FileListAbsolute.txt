@@ -3,7 +3,6 @@ C:\Users\rlingineni\Documents\Visual Studio 2013\Projects\GradeCalculator\GradeC
 C:\Users\rlingineni\Documents\Visual Studio 2013\Projects\GradeCalculator\GradeCalculator\bin\Release\GradeCalculator.application
 C:\Users\rlingineni\Documents\Visual Studio 2013\Projects\GradeCalculator\GradeCalculator\bin\Release\GradeCalculator.exe
 C:\Users\rlingineni\Documents\Visual Studio 2013\Projects\GradeCalculator\GradeCalculator\bin\Release\GradeCalculator.pdb
-C:\Users\rlingineni\Documents\Visual Studio 2013\Projects\GradeCalculator\GradeCalculator\obj\Release\GradeCalculator.csprojResolveAssemblyReference.cache
 C:\Users\rlingineni\Documents\Visual Studio 2013\Projects\GradeCalculator\GradeCalculator\obj\Release\MainWindow.baml
 C:\Users\rlingineni\Documents\Visual Studio 2013\Projects\GradeCalculator\GradeCalculator\obj\Release\MainWindow.g.cs
 C:\Users\rlingineni\Documents\Visual Studio 2013\Projects\GradeCalculator\GradeCalculator\obj\Release\App.g.cs

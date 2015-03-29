@@ -15,4 +15,3 @@ c:\users\rlingineni\documents\visual studio 2013\Projects\GradeCalculator\GradeC
 c:\users\rlingineni\documents\visual studio 2013\Projects\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.TrustInfo.xml
 c:\users\rlingineni\documents\visual studio 2013\Projects\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.exe.manifest
 c:\users\rlingineni\documents\visual studio 2013\Projects\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.application
-c:\users\rlingineni\documents\visual studio 2013\Projects\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csprojResolveAssemblyReference.cache

@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
   <asmv1:assemblyIdentity name="GradeCalculator.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="GradeCalc.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
     <assemblyIdentity name="GradeCalculator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -42,17 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GradeCalculator.exe" size="71640">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GradeCalculator.exe" size="95192">
       <assemblyIdentity name="GradeCalculator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>i6i3ooh8fsIKqHhPCljcjet7KJpGBjDM+8R+8/B3Or8=</dsig:DigestValue>
+        <dsig:DigestValue>jY68qN1VPey+FV+7YMs8+mPHxD19VHxKl3OWBgMdRc8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
+  <file name="GradeCalc.ico" size="11389">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>hcswvtsXYEewwoMwqW/0/qLvOBh9sID3m7MWswRLlRY=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="GradeCalculator.exe.config" size="187">
     <hash>
       <dsig:Transforms>
