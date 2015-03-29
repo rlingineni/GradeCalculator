@@ -5,7 +5,7 @@
 ***
 
 
-<img style="width: 250px;" src="https://raw.githubusercontent.com/rlingineni/GradeCalculator/master/images/logo.png">
+<img style="max-width: 250px;" src="https://raw.githubusercontent.com/rlingineni/GradeCalculator/master/images/logo.png">
 
 Input your grades and have your average grade calculated for you, either in point values or percents.
 
